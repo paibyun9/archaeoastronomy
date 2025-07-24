@@ -1,1 +1,23 @@
+Appendix A. Statistical Results for S-Value Thresholding---
+To validate the S-value classification scheme, we conducted 10,000 iterations of Monte Carlo simulations under randomized azimuth vectors. The objective was to test the probability of obtaining S-values below the threshold for strong alignment (S < 0.02) by chance.
+Results Summary:
+•	Simulations run: 10,000
+•	Observed frequency (S < 0.02): 73 out of 10,000
+•	Estimated p-value: 0.0073 (i.e., < 0.01)
+Threshold Classification:
+•	Strong alignment: S < 0.02
+•	Moderate alignment: 0.02 ≤ S < 0.1
+•	Weak/no alignment: S ≥ 0.1
+Observed S-values (Example):
+Structure	Epoch (BCE)	Observed S-value
+Great Pyramid (Khufu)	4400	0.0138
+Sphinx	4400	0.0154
+Khafre Valley Temple	4400	0.0172
+
+Note: The observed S-value of 0.0138 for the Great Pyramid reflects its individual azimuthal deviation from Alnitak’s heliacal rising point in 4400 ± 200 BCE. By contrast, the S = 0.006 reported in Figure 2 represents a Monte Carlo–optimised best-fit alignment calculated across multiple monuments—including the Great Pyramid, the Sphinx, and the Khafre Valley Temple—modelled as a collective group.
+Both values fall within the “strong alignment” threshold (S < 0.02), reinforcing the hypothesis of intentional orientation toward Orion’s Belt during the mid-Holocene.
+
+
+
+
 
